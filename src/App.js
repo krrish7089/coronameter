@@ -24,8 +24,8 @@ const schemaMarkup = {
   '@type': 'NGO',
   name: 'Coronavirus Outbreak in India: Latest Map and Case Count',
   alternateName: 'Corona Meter',
-  url: 'https://www.covid19indiahttps://coronamaster.herokuapp.com/.org/',
-  image: 'https://coronamaster.herokuapp.com/thumbnail.png',
+  url: 'https://cornameterr.herokuapp.com/.org/',
+  image: 'https://cornameterr.herokuapp.com/thumbnail.png',
 };
 
 function App() {

@@ -8,7 +8,7 @@ function Footer(props) {
 
       <div className="link">
         <a
-          href="https://github.com/krrish7089/cornaMaster"
+          href="https://github.com/krrish7089/cornameter"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -17,7 +17,7 @@ function Footer(props) {
       </div>
 
       <a
-        href="https://github.com/krrish7089/cornaMaster"
+        href="https://github.com/krrish7089/cornameter"
         className="button github"
         target="_blank"
         rel="noopener noreferrer"

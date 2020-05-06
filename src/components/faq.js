@@ -15,7 +15,7 @@ function FAQ(props) {
 
   const getFAQs = () => {
     axios
-      .get('https://coronamaster.herokuapp.com/')
+      .get('https://coronameterr.herokuapp.com/')
       .then((response) => {
         setFaq(response.data['faq']);
       })
@@ -27,7 +27,7 @@ function FAQ(props) {
   return (
     <div className="FAQ">
       <Helmet>
-        <title>FAQ - Corona Meter</title>
+        <title>FAQ - CoronaMeter</title>
         <meta
           name="title"
           content="Coronavirus Outbreak in India: Latest Map and Case Count"
