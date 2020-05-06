@@ -17,7 +17,7 @@ function Footer(props) {
       </div>
 
       <a
-        href="https://github.com/krrish7089/cornameter"
+        href="https://github.com/krrish7089/coronameter"
         className="button github"
         target="_blank"
         rel="noopener noreferrer"
