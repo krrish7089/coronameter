@@ -398,8 +398,8 @@ function Resources(props) {
   return (
     <div className="Resources" id="top-elem">
       <Helmet>
-        <title>Essentials - covid19india.org</title>
-        <meta name="title" content="Essentials - covid19india.org" />
+        <title>Essentials - CoronaMeter</title>
+        <meta name="title" content="Essentials - CoronaMeter" />
       </Helmet>
 
       <div className="filtersection">

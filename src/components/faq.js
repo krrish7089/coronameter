@@ -15,7 +15,7 @@ function FAQ(props) {
 
   const getFAQs = () => {
     axios
-      .get('https://api.covid19india.org/webasite_data.json')
+      .get('https://coronamaster.herokuapp.com/')
       .then((response) => {
         setFaq(response.data['faq']);
       })

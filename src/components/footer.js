@@ -8,7 +8,7 @@ function Footer(props) {
 
       <div className="link">
         <a
-          href="https://github.com/covidindia"
+          href="https://github.com/krrish7089/cornaMaster"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -17,7 +17,7 @@ function Footer(props) {
       </div>
 
       <a
-        href="https://github.com/covidindia"
+        href="https://github.com/krrish7089/cornaMaster"
         className="button github"
         target="_blank"
         rel="noopener noreferrer"
@@ -25,37 +25,6 @@ function Footer(props) {
         <Icon.GitHub />
         <span>Open Sourced on GitHub</span>
       </a>
-
-      {/* <a
-        className="button excel"
-        href="http://patientdb.covid19india.org"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <Icon.Database />
-        <span>Crowdsourced Patient Database&nbsp;</span>
-      </a>
-
-      <a
-        href="https://twitter.com/covid19indiaorg"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="button twitter"
-        style={{justifyContent: 'center'}}
-      >
-        <Icon.Twitter />
-        <span>View updates on Twitter</span>
-      </a>
-
-      <a
-        href="https://bit.ly/covid19crowd"
-        className="button telegram"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <Icon.MessageCircle />
-        <span>Join Telegram to Collaborate!</span>
-      </a> */}
     </footer>
   );
 }

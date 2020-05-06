@@ -113,7 +113,7 @@ function PatientDB(props) {
   return (
     <div className="PatientsDB">
       <Helmet>
-        <title>Demographics - covid19india.org</title>
+        <title>Demographics - CoronaMeter</title>
         <meta name="title" content={`Demographics - covid19india.org`} />
         <meta
           name="description"
